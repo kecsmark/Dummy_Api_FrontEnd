@@ -1,6 +1,6 @@
 import ShowData from './ShowData';
-export default function ShowEmployees(props){
 
+export default function ShowEmployees(props){
     return(
         <div
         style={{
